@@ -1,7 +1,9 @@
 # Solvis
 This project contains some tooling to analyze Solvis' CSV files with Grafana and sqlite. The CSV files are imported into sqlite. Grafana is used to analyze the data.
 
-![Grafana dashbaord example](images/grafana.png)
+![Grafana dashboard example](images/grafana-example-1.png)
+
+![Grafana dashboard example](images/grafana-example-2.png)
 
 ## Prerequisites
 You need the following tools to use this repository:
